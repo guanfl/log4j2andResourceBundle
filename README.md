@@ -1,0 +1,2 @@
+# log4j2andResourceBundle
+log4j2试验和ResourceBundle加载国际化文件试验
